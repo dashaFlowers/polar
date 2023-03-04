@@ -1,0 +1,54 @@
+
+.simple-way-wrapper {
+	display: flex;
+	padding-top: 129px;
+}
+
+.simple-way-title {
+	font-size: 44.2px;
+	margin: 0 0 0 150px;
+}
+
+.simple-way-text-1 {
+	font-size: 18px;
+	letter-spacing: 0.01em;
+	color: #0F0101;
+	opacity: 0.7;
+	max-width: 607px;
+	margin: 0 0 0 150px;
+}
+
+.simple-way-add {
+	border: none;
+	padding: 0;
+	cursor: pointer;
+}
+
+.simple-way-navbar-list {
+	list-style: none;
+	display: flex;
+	grid-gap: 19px;
+	flex-direction: column;
+	margin: 41px 0 0 150px;
+	padding: 0;
+	font-weight: bold;
+}
+
+.simple-way-img {
+	width: 30px;
+	height: 30px;
+	border-radius: 3px;
+	background: #fff;
+}
+
+.simple-way-navbar-item {
+	display: flex;
+    text-align: center;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.simple-way-button {
+	display: flex;
+	margin: 41px 0 0 137px;
+}   

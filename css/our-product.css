@@ -1,0 +1,28 @@
+.our-product-wrappet {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 137px;
+}
+
+.our-product-title {
+	font-weight: 600;
+	font-size: 44px;
+	color: #150101;
+	margin: 0;
+	margin-bottom: 64px;
+}
+
+.our-product-item-link {
+	font-weight: 600;
+	font-size: 18px;
+	color: #000;
+	opacity: 0.6;
+	text-decoration: none;
+}
+
+.our-product-item-link:hover {
+	color: #000;
+	border-bottom: 3px solid #D64374;
+	opacity: 1;
+}

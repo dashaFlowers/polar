@@ -1,0 +1,34 @@
+.brown-sugar-wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.brown-sugar-with-text {
+	display: flex;
+	flex-direction: column;
+	margin-right: 74px;
+}
+
+.brown-sugar-title {
+	font-weight: 600;
+ 	font-size: 44px;
+ 	color: #150101;
+ 	margin: 0;
+ 	max-width: 349px;
+ 	margin-bottom: 16px;
+}
+
+.brown-sugar-text {
+	font-size: 16px;
+	color: rgba(15, 1, 1, 0.6);
+	margin: 0;
+	max-width: 442px;
+	margin-bottom: 35px;
+
+}
+
+.button-see-detalis {
+	padding: 15px 41px;
+	font-weight: 500;
+	font-size: 16px;
+}

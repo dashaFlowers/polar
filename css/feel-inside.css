@@ -1,0 +1,50 @@
+.feel-inside-wrapper {
+	align-items: center;
+	display: flex;
+	height: 80vh;
+	background-image: url('../assets/images/ice-cream.svg');
+	background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: 138% 32%;
+}
+
+.feel-inside-with-text{
+	display: flex;
+	flex-direction: column;
+	max-width: 55%;
+}
+
+.feel-inside-title-min {
+	font-size: 14px;
+	color: #0F0101;
+	font-weight: 600;
+	letter-spacing: 0.1em;
+	margin: 0;
+	margin-bottom: 6px;
+}
+
+.feel-inside-title {
+	margin: 0;
+	color: rgba(15, 1, 1, 0.9);
+	font-size: 58px;
+	font-weight: 400; 
+}
+
+.feel-inside-title-pink {
+	color: #D23166;
+}
+
+.feel-inside-text{
+	font-size: 18px;
+	line-height: 27px;
+	color: rgba(15, 1, 1, 0.6);
+	margin: 0;
+	margin-bottom: 50px;
+	margin-top: 35px;
+	max-width: 523px;
+}
+
+.feel-inside-img {
+	margin-top: 68px;
+}
+

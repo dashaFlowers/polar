@@ -1,0 +1,46 @@
+.fitcha {
+	text-align: center;
+}
+
+.fitcha-wrap {
+	display: flex;
+	grid-gap: 39px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.fitcha-card {
+	background: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.03);
+	border-radius: 7px;
+	box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+	max-width: 250px;
+	max-height: 200px;
+	padding: 35px 26px 28px 26px;
+}
+
+.fitcha-card-title {
+	font-weight: 600;
+	font-size: 20px;
+	margin: 0;
+	margin-bottom: 9px;
+}
+
+.fitcha-card-text{
+	font-size: 14px;
+	color: #000000;
+	opacity: 0.6;
+	margin: 0;
+	margin-bottom: 28px;
+}
+
+.fitcha-card-img {
+	min-height: 54px;
+}
+
+@media (max-width: 768px) {
+	.fitcha-card {
+		width: 100%;
+	}
+}
+

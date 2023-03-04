@@ -1,0 +1,53 @@
+.peoples {
+	margin-top: 100px;
+}
+
+.peoples-wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+
+.peoples-title {
+	font-size: 24px;
+	font-weight: bold;
+	margin: 0 0 0px 21px;
+}
+
+.peoples-1 {
+	font-weight: 500;
+	font-size: 12px;
+	color: #000;
+	opacity: 0.7;
+}
+
+.peoples-text {
+	font-size: 16px;
+	color: #000;
+	opacity: 0.7;
+	max-width: 322px;
+	margin: 50px 0 46px 0;
+}
+
+.peoples-girl-text {
+	display: flex;
+}
+
+.peoples-photo, .peoples-scroll {
+	display: flex;
+	grid-gap: 40px;
+}
+
+.peoples-scroll {
+	grid-gap: 30px;
+	align-items: center;
+}
+
+.button-vector {
+	border: none;
+	background: #fff;
+}
+
+.peoples-girl-scroll {
+	width: 35px;
+	height: 58px;
+}
